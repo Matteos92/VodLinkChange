@@ -1,0 +1,17 @@
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\VodLinkChange.exe.config
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\VodLinkChange.exe.manifest
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\VodLinkChange.application
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\VodLinkChange.exe
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\VodLinkChange.pdb
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\Newtonsoft.Json.dll
+D:\mgrauman\VodLinkChange\VodLinkChange\bin\Release\Newtonsoft.Json.xml
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.csprojAssemblyReference.cache
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.Form1.resources
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.Properties.Resources.resources
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.csproj.GenerateResource.cache
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.csproj.CoreCompileInputs.cache
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.exe.manifest
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.application
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.csproj.CopyComplete
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.exe
+D:\mgrauman\VodLinkChange\VodLinkChange\obj\Release\VodLinkChange.pdb

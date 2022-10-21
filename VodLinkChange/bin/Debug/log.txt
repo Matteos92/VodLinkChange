@@ -1,0 +1,11 @@
+
+System.ArgumentOutOfRangeException: Wartość elementu StartIndex nie może być mniejsza od zera.
+Nazwa parametru: startIndex
+   w System.String.Substring(Int32 startIndex, Int32 length)
+   w System.String.Substring(Int32 startIndex)
+   w VodLinkChange.Form1.button15_Click(Object sender, EventArgs e) w C:\Users\mgrauman\Desktop\VodLinkChange\VodLinkChange\Form1.cs:wiersz 745
+System.ArgumentOutOfRangeException: Wartość elementu StartIndex nie może być mniejsza od zera.
+Nazwa parametru: startIndex
+   w System.String.Substring(Int32 startIndex, Int32 length)
+   w System.String.Substring(Int32 startIndex)
+   w VodLinkChange.Form1.button15_Click(Object sender, EventArgs e) w C:\Users\mgrauman\Desktop\VodLinkChange\VodLinkChange\Form1.cs:wiersz 745
